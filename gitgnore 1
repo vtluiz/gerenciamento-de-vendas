@@ -1,0 +1,11 @@
+# Ignorar arquivos temporários e de backup
+*.log
+*.tmp
+*.bak
+
+# Ignorar diretório de banco de dados local
+/database/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
